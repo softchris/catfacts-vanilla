@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+
+html,
+body {
+  margin: 0;
+  background: linear-gradient(120deg, #f6d365, #fda085);
+  height: 100%;
+}
+
+
+article {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+p {
+  font-family: 'Caveat', cursive;
+  font-size: 2.5rem;
+  margin: 2rem;
+}
